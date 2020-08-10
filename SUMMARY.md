@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [email error](mail.md)
+* [爱施德邮箱已满](mail.md)
 
