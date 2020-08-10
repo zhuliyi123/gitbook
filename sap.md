@@ -2,7 +2,7 @@
 
 ##### 浏览器打开http://172.20.25.21 下载SAP。（<u>注意事项：只有172.X.X.X网段可以使用SAP</u>）
 
-![s1](D:\getbook\img\s1.png)
+![](D:\getbook\img\s1.png)
 
 ##### 下载这三个即可
 
